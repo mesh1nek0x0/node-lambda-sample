@@ -1,0 +1,14 @@
+{
+  "name": "node-lambda-sample",
+  "version": "1.0.0",
+  "description": "node-lambda sample",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mesh1nek0x0",
+  "license": "ISC",
+  "dependencies": {
+    "node-lambda": "^0.11.3"
+  }
+}
