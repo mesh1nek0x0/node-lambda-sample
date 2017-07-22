@@ -27,7 +27,7 @@
     ],
     "no-console": [
       "error",
-      { "allow": ["log"] }
+      { "allow": ["log", "info", "error"] }
     ]
   }
 }

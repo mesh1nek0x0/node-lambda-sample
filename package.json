@@ -9,7 +9,9 @@
   "author": "mesh1nek0x0",
   "license": "ISC",
   "dependencies": {
-    "node-lambda": "^0.11.3"
+    "bluebird": "^3.5.0",
+    "node-lambda": "^0.11.3",
+    "phantom": "^4.0.5"
   },
   "devDependencies": {
     "eslint": "^4.2.0"
